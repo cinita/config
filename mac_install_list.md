@@ -1,6 +1,6 @@
 # Common
 1. Sougou input: https://shurufa.sogou.com/
-2. Stats: https://github.com/exelban/stats
+2. Lemon: https://lemon.qq.com/
 3. Amphetamine: https://apps.apple.com/us/app/amphetamine/id937984704?mt=12
 4. mpv: https://mpv.io/
 
