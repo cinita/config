@@ -6,7 +6,7 @@
 
 # Develop
 1. Xcode
-2. ohmyzsh: https://github.com/ohmyzsh/ohmyzsh
-3. iterm2: https://iterm2.com/
-4. Homebrew: https://brew.sh/
-5. VS Code: https://code.visualstudio.com/
+2. iterm2: https://iterm2.com/
+3. ohmyzsh: https://github.com/ohmyzsh/ohmyzsh
+5. Homebrew: https://brew.sh/
+6. VS Code: https://code.visualstudio.com/
