@@ -10,3 +10,4 @@
 3. ohmyzsh: https://github.com/ohmyzsh/ohmyzsh
 5. Homebrew: https://brew.sh/
 6. VS Code: https://code.visualstudio.com/
+7. VM: https://mac.getutm.app/
